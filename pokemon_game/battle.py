@@ -148,6 +148,3 @@ def best_of_three(player1: dict, player2: dict) -> dict:
     overall_winner = player1 if wins_1 == 2 else player2
     print(f"\n=== Overall Winner: {overall_winner['name'].title()} ===")
     return overall_winner
-
-
-
