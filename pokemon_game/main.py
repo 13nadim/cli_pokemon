@@ -1,4 +1,3 @@
-# pokemon_game/main.py
 # Person C: runs the game (user input + calling API + calling battle)
 
 from api2 import get_pokemon, get_random_pokemon
